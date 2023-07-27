@@ -1,0 +1,143 @@
+[
+    {
+        "category": "Launcher",
+        "visible": true,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "Launcher"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "启动器"
+            }
+        ],
+        "item": [
+            {
+                "lang": "en",
+                "title": "Introduction",
+                "subtitle": "About the launcher.",
+                "author": "Tungsten",
+                "path": "/_launcher/introduction.md"
+            },
+            {
+                "lang": "zh_CN",
+                "title": "介绍",
+                "subtitle": "关于启动器。",
+                "author": "Tungsten",
+                "path": "/_launcher/introduction_zh_CN.md"
+            }
+        ]
+    },
+    {
+        "category": "Account",
+        "visible": true,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "Account"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "账户"
+            }
+        ],
+        "item": [
+
+        ]
+    },
+    {
+        "category": "Multiplayer",
+        "visible": false,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "Multiplayer"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "联机"
+            }
+        ],
+        "item": [
+            {
+                "lang": "en",
+                "title": "Multiplayer Instructions",
+                "subtitle": "How to play with your friends without a private server.",
+                "author": "Tungsten",
+                "path": "/_multiplayer/multiplayer.md"
+            }
+        ]
+    },
+    {
+        "category": "Controller",
+        "visible": true,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "Controller"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "控件"
+            }
+        ],
+        "item": [
+
+        ]
+    },
+    {
+        "category": "Modpack",
+        "visible": true,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "Modpack"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "整合包"
+            }
+        ],
+        "item": [
+
+        ]
+    },
+    {
+        "category": "About",
+        "visible": true,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "About"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "关于"
+            }
+        ],
+        "item": [
+            {
+                "lang": "en",
+                "title": "Contribute for FCL documentation",
+                "subtitle": "How to write a documentation.",
+                "author": "Tungsten",
+                "path": "/_about/contribution.md"
+            },
+            {
+                "lang": "zh_CN",
+                "title": "为 FCL 文档仓库贡献",
+                "subtitle": "如何编写一份文档。",
+                "author": "Tungsten",
+                "path": "/_about/contribution_zh_CN.md"
+            },
+            {
+                "lang": "en",
+                "title": "How to compile",
+                "subtitle": "How to compile Fold Craft Launcher.",
+                "author": "Tungsten",
+                "path": "/_about/compilation.md"
+            }
+        ]
+    }
+]

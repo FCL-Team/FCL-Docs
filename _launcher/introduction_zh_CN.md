@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="75" src="/assets/img/docs/introduction/img_app.png"></img>
+</div>
+
 <h1 align="center">Fold Craft Launcher</h1>
 
 <div align="center">
@@ -9,10 +13,6 @@
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@tungs)
 
-</div>
-
-<div align="center">
-    <img width="175" src="/assets/img/docs/introduction/img_app.png"></img>
 </div>
 
 - [Fold Craft Launcher](https://fcl-team.github.io/)：本应用致力于在 Android 设备上运行 Minecraft: Java Edition，并允许用户下载、管理游戏，添加自定义控制等。

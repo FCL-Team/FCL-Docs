@@ -30,6 +30,36 @@
         ]
     },
     {
+        "category": "renderer",
+        "visible": true,
+        "displayName": [
+            {
+                "lang": "en",
+                "name": "Renderer"
+            },
+            {
+                "lang": "zh_CN",
+                "name": "渲染器"
+            }
+        ],
+        "item": [
+            {
+                "lang": "en",
+                "title": "Renderer comparison",
+                "subtitle": "A simple comparison of renderers.",
+                "author": "柠枺",
+                "path": "/_render/render.md"
+            },
+            {
+                "lang": "zh_CN",
+                "title": "渲染器比较",
+                "subtitle": "简单比较各个渲染器。",
+                "author": "柠枺",
+                "path": "/_render/render_zh_CN.md"
+            }
+        ]
+    },
+    {
         "category": "Account",
         "visible": true,
         "displayName": [

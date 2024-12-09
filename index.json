@@ -39,7 +39,10 @@
             },
             {
                 "lang": "zh_CN",
-                "name": "账户"
+                "name": "账户",
+                "subtitle": "账户登录。",
+                "author": "Tungsten",
+                "path": "/_Account/Account_zh_CN.md"
             }
         ],
         "item": [

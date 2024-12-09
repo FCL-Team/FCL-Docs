@@ -39,14 +39,24 @@
             },
             {
                 "lang": "zh_CN",
-                "name": "账户",
-                "subtitle": "账户登录。",
-                "author": "Tungsten",
-                "path": "/_Account/Account_zh_CN.md"
+                "name": "账户"
             }
         ],
         "item": [
-
+            {
+                "lang": "en",
+                "title": "Account Instructions",
+                "subtitle": "How to add an account to the launcher.",
+                "author": "柠枺",
+                "path": "/_account/account.md"
+            },
+            {
+                "lang": "zh_CN",
+                "title": "账户说明",
+                "subtitle": "如何添加账户到启动器。",
+                "author": "柠枺",
+                "path": "/_account/account_zh_CN.md"
+            }
         ]
     },
     {

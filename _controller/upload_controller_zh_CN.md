@@ -4,11 +4,11 @@
 
  ## 键位上传
 1.进入启动器，点击左侧控制器图标进入控件页面，在左侧区域选中需要上传的键位，点击下方“ __上传布局__ ”。（而 __不是__ 分享布局）
-![上传布局](/assets/img/docs/upload_controller/scbj.png)
+![上传布局](/assets/img/docs/upload_controller/upload.png)
 
 2.在此界面点击“分享”。
 （前提是已审核进入FCL控件审核群聊）
-![分享](/assets/img/docs/upload_controller/fx.png)
+![分享](/assets/img/docs/upload_controller/share_pri.png)
 3.在弹出的窗口中补充控件信息并确认，选择好键位的语言和适配设备类型。
 - 选择键位图标和键位截图点击右侧红框处按钮  
 （如按钮消失请尝试切换到暗色/黑夜模式）。
@@ -17,10 +17,10 @@
   > - 请不要使用外部应用选择图像，否则导致路径错误分享失败；
   > - 如找不到图像路径，请用文件管理器（比如MT）将图像移动至您能够记住的路径
 
-![编辑布局信息](/assets/img/docs/upload_controller/bjbjxx.png)
+![编辑布局信息](/assets/img/docs/upload_controller/info.png)
 4.选择好后点击“分享”按钮，会自动生成键位id（通常是一串由数字和字母组成的八位字符）命名的压缩包，将压缩包分享至审核群等待管理员审核完毕即可。
-![分享](/assets/img/docs/upload_controller/fx1.png)
-![分享](/assets/img/docs/upload_controller//fx2.png)
+![分享](/assets/img/docs/upload_controller/share_sec.png)
+![分享](/assets/img/docs/upload_controller//community.png)
 
 ## 键位审核规则
 ### 基本功能与设计要求

@@ -30,7 +30,7 @@
         ]
     },
     {
-        "category": "Account",
+        "category": "account",
         "visible": true,
         "displayName": [
             {
@@ -56,36 +56,6 @@
                 "subtitle": "如何添加账户到启动器。",
                 "author": "柠枺",
                 "path": "/_account/account_zh_CN.md"
-            }
-        ]
-    },
-    {
-        "category": "controller",
-        "visible": true,
-        "displayName": [
-            {
-                "lang": "en",
-                "name": "Controller"
-            },
-            {
-                "lang": "zh_CN",
-                "name": "控制布局"
-            }
-        ],
-        "item": [
-            {
-                "lang": "en",
-                "title": "upload controller",
-                "subtitle": "How to upload a controller to the launcher.",
-                "author": "柠枺",
-                "path": "/_controller/upload_controller.md"
-            },
-            {
-                "lang": "zh_CN",
-                "title": "上传控制布局",
-                "subtitle": "如何上传控制布局到启动器。",
-                "author": "柠枺",
-                "path": "/_controller/upload_controller_zh_CN.md"
             }
         ]
     },
@@ -126,7 +96,20 @@
             }
         ],
         "item": [
-
+            {
+                "lang": "en",
+                "title": "Upload controller",
+                "subtitle": "How to upload a controller to the launcher repository.",
+                "author": "柠枺",
+                "path": "/_controller/upload_controller.md"
+            },
+            {
+                "lang": "zh_CN",
+                "title": "上传控制布局",
+                "subtitle": "如何上传控制布局到启动器仓库。",
+                "author": "柠枺",
+                "path": "/_controller/upload_controller_zh_CN.md"
+            }
         ]
     },
     {

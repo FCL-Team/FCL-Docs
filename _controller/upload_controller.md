@@ -4,11 +4,11 @@ This tutorial will help you understand how to upload custom key layouts through 
 
 ## Key Layout Upload
 1. Open the launcher, click on the controller icon on the left side to enter the controller page. Select the key layout you want to upload in the left area and click “__Upload Layout__” (not “Share Layout”).
-   ![Upload Layout](/assets/img/docs/upload_controller/scbj.png)
+   ![Upload Layout](/assets/img/docs/upload_controller/upload.png)
 
 2. Click “Share” on this interface.
    (Prerequisite: You have been reviewed and admitted to the FCL Controller Review Group Chat)
-   ![Share](/assets/img/docs/upload_controller/fx.png)
+   ![Share](/assets/img/docs/upload_controller/share_pri.png)
 
 3. In the pop-up window, fill in the controller information and confirm. Choose the language of the key layout and the type of device it is compatible with.
    - Select the key layout icon and screenshot by clicking the button in the red box on the right 
@@ -18,11 +18,11 @@ This tutorial will help you understand how to upload custom key layouts through 
    > - Do not use external apps to select images, as this may cause path errors and sharing failures;
    > - If you cannot find the image path, use a file manager (such as MT) to move the image to a memorable path.
 
-   ![Edit Layout Information](/assets/img/docs/upload_controller/bjbjxx.png)
+   ![Edit Layout Information](/assets/img/docs/upload_controller/info.png)
 
 4. After selecting, click the “Share” button. A compressed package named with an eight-character ID (usually a combination of numbers and letters) will be generated automatically. Share the compressed package to the review group and wait for the administrator to complete the review.
-   ![Share](/assets/img/docs/upload_controller/fx1.png)
-   ![Share](/assets/img/docs/upload_controller/fx2.png)
+   ![Share](/assets/img/docs/upload_controller/share_sec.png)
+   ![Share](/assets/img/docs/upload_controller/community.png)
 
 ## Key Layout Review Rules
 ### Basic Functionality and Design Requirements

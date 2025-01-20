@@ -24,15 +24,15 @@ This tutorial will help you understand how to upload custom controllers to launc
 
 ## Controller Review Rules
 ### Basic Functionality and Design Requirements
-**1. Ensure Functional Completeness**: The controller must have core functionalities.
-**3. Originality**: Copying or using others' controller styles, layouts, text, or special features without permission is not allowed. If you reference other controller, you must obtain <span style="color: red;">**authorization from the original author**</span> and mention the original author in the controller description or controller itself. Be sure to send a screenshot of the authorization proof in the review group.
-**4. No Commercial Promotion**: The content must not include any form of commercial promotion.
+**1. Ensure Functional Completeness**: The controller must have core functionalities.  
+**3. Originality**: Copying or using others' controller styles, layouts, text, or special features without permission is not allowed. If you reference other controller, you must obtain <span style="color: red;">**authorization from the original author**</span> and mention the original author in the controller description or controller itself. Be sure to send a screenshot of the authorization proof in the review group.  
+**4. No Commercial Promotion**: The content must not include any form of commercial promotion.  
 
 ### File Upload Requirements
-**1. Naming Conventions**: The controller file (eight-character ID <span style="color: red;">compressed package</span>) should be named appropriately, avoiding prohibited words (such as "cheat, invincible, exclusive, surpass the world, strongest", etc.).
-**2. Clear Classification**: Ensure that the classification and language fields are filled out completely.
-**3. Sample Images**: Screenshots should be directly related to the controller, showing its main appearance rather than too many game screenshots.
-**4. Icon Standards**: Icons should maintain a 1:1 aspect ratio and can use personal avatars.
+**1. Naming Conventions**: The controller file (eight-character ID <span style="color: red;">compressed package</span>) should be named appropriately, avoiding prohibited words (such as "cheat, invincible, exclusive, surpass the world, strongest", etc.).  
+**2. Clear Classification**: Ensure that the classification and language fields are filled out completely.  
+**3. Sample Images**: Screenshots should be directly related to the controller, showing its main appearance rather than too many game screenshots.  
+**4. Icon Standards**: Icons should maintain a 1:1 aspect ratio and can use personal avatars.  
 **5. We Recommend Your Controller <span style="color: red;">Meets the Following Requirements</span>**
 - The view style should be visually appealing.
 - <span style="color: red;">The view style should be original</span>.
@@ -81,6 +81,6 @@ Any unauthorized use of controller styles must be modified for originality befor
 This group enforces **strict regulations**:
 - Members who do not upload controllers within one day of joining will be removed.
 - Multiple accounts joining the group chat are prohibited.
-- Idle chatting is prohibited.
-<span style="color: red;">Read this document carefully,  
-or risk being kicked out by administrators for violations.</span>
+- Idle chatting is prohibited.  
+  <span style="color: red;">Read this document carefully,  
+  or risk being kicked out by administrators for violations.</span>
